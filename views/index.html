@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>闲言轻博客</title>
+	<title>胡升权的博客</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	{{template "common/link.html"}}
 </head>
@@ -12,14 +12,16 @@
 			<div class="container">
 					<div class="contar-wrap">
 						<h4 class="item-title">
-							<p><i class="layui-icon layui-icon-speaker"></i>公告：<span>欢迎来到我的轻博客</span></p>
+							<p><i class="layui-icon layui-icon-speaker"></i>公告：<span>欢迎来到我的博客</span></p>
 						</h4>
 						{{range .notes}}
 						<div class="item">
 							{{template "common/note_summary_tpl.html" .}}
 							<div class="comment count">
-								<a href="/comment/{{.Key}}">评论</a>
-								<a href="javascript:;" class="like" data-type="note" data-key="{{.Key}}">点赞</a>
+								<a href="/comment/{{.Key}}">
+									<button class="layui-btn layui-btn-radius layui-btn-normal" style="padding: 0 50px">评论</button></a>
+								<a href="javascript:;" class="like" data-type="note" data-key="{{.Key}}">
+									<button class="layui-btn layui-btn-radius layui-btn-normal" style="padding: 0 50px">点赞</button></a>
 							</div>
 						</div>
 						{{end}}
