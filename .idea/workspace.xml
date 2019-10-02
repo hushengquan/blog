@@ -2,14 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a1c4733-bef7-438d-86b9-b35f78e6ed39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog" beforeDir="false" afterPath="$PROJECT_DIR$/blog" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/data.db" beforeDir="false" afterPath="$PROJECT_DIR$/data/data.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/detail.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/sysn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/common/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/common/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/session/2/9/292319b164d9a07b7499b1bfff690641" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/routers/router.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/comment.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/comment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/common/js.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/common/js.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/details.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/details.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/message.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/message.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/note_new.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/note_new.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/reg.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/reg.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/user.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

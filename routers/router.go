@@ -24,17 +24,5 @@ func init() {
 			"praise",
 			beego.NSInclude(&controllers.PraiseController{}),
 		),
-		//beego.NewNamespace(
-		//	"upload",
-		//	beego.NSInclude(&controllers.UploadController{}),
-		//),
-		//beego.NewNamespace(
-		//	"praise",
-		//	beego.NSInclude(&controllers.PraiseController{}),
-		//),
-		//beego.NewNamespace(
-		//	"message",
-		//	beego.NSInclude(&controllers.MessageController{}),
-		//),
 	)
 }
